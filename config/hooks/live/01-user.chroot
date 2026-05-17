@@ -1,0 +1,4 @@
+#!/bin/bash
+useradd -m -s /bin/bash -G sudo brinicle
+echo "brinicle:brinicle" | chpasswd
+echo "root:root" | chpasswd

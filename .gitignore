@@ -1,0 +1,15 @@
+*.iso
+*.iso.zsync
+*.contents
+*.files
+*.packages
+*.build
+*.modified_timestamps
+.build/
+binary/
+chroot/
+cache/
+local/
+*.log
+*.tmp
+.DS_Store
